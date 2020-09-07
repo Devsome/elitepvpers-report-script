@@ -1,2 +1,3 @@
-# elitepvpers-report-script
-Elitepvpers.com report script
+### Elitepvpers.com report script
+
+Simple Tampermonkey Userscript
